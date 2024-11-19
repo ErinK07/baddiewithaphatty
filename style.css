@@ -1,0 +1,14 @@
+h1 {
+text-align: center;
+color:pink;
+border-style:solid;
+border-right-style:solid;
+border-left-style:solid;
+}
+body {
+   background-color: rgb(178, 68, 178);
+}
+img {
+width: 500px;
+height: 500px;
+}
